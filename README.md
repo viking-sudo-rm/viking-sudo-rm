@@ -8,4 +8,4 @@ For more information, check out:
 
 - [My personal website](https://lambdaviking.com/)
 - [My Google Scholar](https://scholar.google.com/citations?user=CyjChJQAAAAJ&hl=en)
-- [My SoundCloud](https://soundcloud.com/william-merrill)
+<!-- - [My SoundCloud](https://soundcloud.com/william-merrill) -->
