@@ -1,6 +1,6 @@
 ## Hi, I'm Will Merrill! 👋
 
-I'm a Ph.D. student at New York University interested in the theoretical foundations of language and computation. Most of my research has focused on understanding how artificial neural networks process the syntax and semantics of natural languages. Recently, my research has focused on understanding (a) the reasoning/computational power of transformers and (b) the degree to which language models can encode the meaning of text.
+I'm a Ph.D. student at New York University interested in the theoretical foundations of language and computation. Most of my research has focused on understanding the computational power of language modeling architectures, with an eye towards understanding their language processing and reasoning capabilities.
 
 I've also done a fair amount of amateur game development, just for fun.
 
